@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="xkgl:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/xkgl_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="xkgl/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="xkgl" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="comm" />
+          <element id="library" level="project" name="poi-3" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

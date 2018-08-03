@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="comm">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/comm" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/comm" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/comm" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/comm" recursive="false" type="SOURCES" />
+  </library>
+</component>
