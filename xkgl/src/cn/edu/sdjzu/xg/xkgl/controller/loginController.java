@@ -24,7 +24,7 @@ import java.util.Collection;
 public class loginController extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        //转发到login.jsp
+
         request.getRequestDispatcher("pages/login/login.jsp").forward(request,response);
     }
     @Override
